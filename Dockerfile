@@ -21,3 +21,4 @@ FROM mattrayner/lamp:latest-1604-php5
 # copy sipi
 COPY --from=sipi-image /sipi/local/bin/sipi /usr/local/bin/sipi
 
+CMD ["/run.sh"]
