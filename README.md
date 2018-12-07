@@ -1,4 +1,4 @@
-# docker-salsah-lamps
+# docker-lamps
 Docker image containing LAMP and Sipi. Image published as `dhlabbasel/lamps`
 
 ## Building dhlabbasel/salsah-lamps image
